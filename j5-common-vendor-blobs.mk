@@ -126,7 +126,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j5-common/proprietary/lib/libchromatix_s5k3l2xx_pip.so:system/lib/libchromatix_s5k3l2xx_pip.so \
     vendor/samsung/j5-common/proprietary/lib/libchromatix_s5k3l2xx_preview.so:system/lib/libchromatix_s5k3l2xx_preview.so \
     vendor/samsung/j5-common/proprietary/lib/libchromatix_s5k3l2xx_snapshot.so:system/lib/libchromatix_s5k3l2xx_snapshot.so \
-    vendor/samsung/j5-common/proprietary/vendor/lib/libbtnv.so:system/vendor/lib/libbtnv.so \
     vendor/samsung/j5-common/proprietary/lib/libchromatix_s5k3l2xx_sports.so:system/lib/libchromatix_s5k3l2xx_sports.so \
     vendor/samsung/j5-common/proprietary/lib/libchromatix_s5k3l2xx_uhd_video.so:system/lib/libchromatix_s5k3l2xx_uhd_video.so \
     vendor/samsung/j5-common/proprietary/lib/libmmcamera2_stats_algorithm.so:system/lib/libmmcamera2_stats_algorithm.so \
