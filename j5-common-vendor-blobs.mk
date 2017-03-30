@@ -344,8 +344,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j5-common/proprietary/lib/libquramimagecodec.so:system/lib/libquramimagecodec.so \
     vendor/samsung/j5-common/proprietary/lib/libquramresize.so:system/lib/libquramresize.so \
     vendor/samsung/j5-common/proprietary/lib/libsecpkcs11_engine.so:system/lib/libsecpkcs11_engine.so \
-    vendor/samsung/j5-common/proprietary/lib/lib_DNSe_EP_ver216b.so:system/lib/lib_DNSe_EP_ver216b.so \
-    vendor/samsung/j5-common/proprietary/lib/lib_DNSe_NRSS_ver230.so:system/lib/lib_DNSe_NRSS_ver230.so \
     vendor/samsung/j5-common/proprietary/vendor/lib/libmmiipstreammmihttp.so:system/vendor/lib/libmmiipstreammmihttp.so \
     vendor/samsung/j5-common/proprietary/vendor/lib/libmmipstreamaal.so:system/vendor/lib/libmmipstreamaal.so \
     vendor/samsung/j5-common/proprietary/vendor/lib/libmmipstreamnetwork.so:system/vendor/lib/libmmipstreamnetwork.so \
