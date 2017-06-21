@@ -320,7 +320,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j5-common/proprietary/vendor/lib/liblistensoundmodel2.so:system/vendor/lib/liblistensoundmodel2.so \
     vendor/samsung/j5-common/proprietary/vendor/lib/liblistenjni.so:system/vendor/lib/liblistenjni.so \
     vendor/samsung/j5-common/proprietary/vendor/lib/libnative_audio_latency_jni.so:system/vendor/lib/libnative_audio_latency_jni.so \
-    vendor/samsung/j5-common/proprietary/lib/libaudioparameter.so:system/lib/libaudioparameter.so \
     vendor/samsung/j5-common/proprietary/lib/libvariablespeed.so:system/lib/libvariablespeed.so \
     vendor/samsung/j5-common/proprietary/vendor/lib/libadsprpc.so:system/vendor/lib/libadsprpc.so \
     vendor/samsung/j5-common/proprietary/vendor/lib/libfastcvopt.so:system/vendor/lib/libfastcvopt.so \
