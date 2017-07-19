@@ -67,6 +67,9 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j5-common/proprietary/lib/libatomcore.so:system/lib/libatomcore.so \
     vendor/samsung/j5-common/proprietary/lib/libatomjpeg.so:system/lib/libatomjpeg.so \
     vendor/samsung/j5-common/proprietary/lib/libarac.so:system/lib/libarac.so \
+    vendor/samsung/j5-common/proprietary/lib/libCryptionkey.so:system/lib/libCryptionkey.so \
+    vendor/samsung/j5-common/proprietary/lib/libsec_ecryptfs.so:system/lib/libsec_ecryptfs.so \
+    vendor/samsung/j5-common/proprietary/lib/libdirencryption.so:system/lib/libdirencryption.so \
     vendor/samsung/j5-common/proprietary/lib/libarccamera.so:system/lib/libarccamera.so \
     vendor/samsung/j5-common/proprietary/lib/libarcsoft_panorama_burstcapture.so:system/lib/libarcsoft_panorama_burstcapture.so \
     vendor/samsung/j5-common/proprietary/lib/libarcsoft_selfie_camera_lite.so:system/lib/libarcsoft_selfie_camera_lite.so \
